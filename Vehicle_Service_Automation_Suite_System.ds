@@ -1,9 +1,9 @@
 /*
- * Author       : neildaniel.a.2024.cse_raj609
+ * Author       : yashwanth.s.2024.cse_raj609
  * Generated on : 06-Oct-2026 19:57:56
  * Version      : 1.0
  */
- application "Student Management System"
+ application "Vehicle Service Automation Suite System"
  {
  	date format = "dd-MMM-yyyy"
  	time zone = "Asia/Kolkata"
@@ -11,9 +11,9 @@
 
  	forms
 	{
-		form Student_Details
+		form Vehicle_Details
 		{
-			displayname = "Student Details"
+			displayname = "Vehicle Details"
 			success message = "Data Added Successfully!"
 			Section
 			(
